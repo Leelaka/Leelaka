@@ -10,7 +10,7 @@
 ## About Me
 
 - ⚙️ Building solutions in **JavaScript**, **React**, **Next.js**, **Node.js**, **Express**, **MongoDB**, and more.
-- ⚡ Experienced in **Python**, **SuiteScript** (NetSuite ERP), **Docker**, **AWS**, and **Arduino**.
+- ⚡ Experienced in **Javascript**, **Python**, **SuiteScript** (NetSuite ERP), **Docker**, **AWS**, and **AI & ML**.
 - 🎨 Passionate about delivering modern **UI/UX** experiences and solving complex tech challenges.
 - 🌱 Always learning and exploring **cutting-edge technologies** to innovate and scale businesses.
 
